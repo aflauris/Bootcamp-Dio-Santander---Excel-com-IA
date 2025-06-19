@@ -86,3 +86,43 @@ Auxiliar o contribuinte no controle de documentos e informações obrigatórias 
 
 - **Ana Flora Lauris** – [@aflauris](https://github.com/aflauris)
 
+
+# 📈 Desafio 3 - Dashboard de Vendas do Xbox no Excel
+
+Projeto desenvolvido como parte do Bootcamp Dio/Santander - Excel com IA. Este desafio tem como objetivo transformar uma base de dados bruta em um dashboard visual e interativo no Excel, promovendo uma análise eficaz do desempenho de vendas e facilitando a tomada de decisões baseadas em dados.
+
+## 🧠 Objetivo
+
+Criar um painel de vendas dinâmico e organizado, permitindo ao usuário interpretar rapidamente os principais indicadores de performance e realizar análises visuais de maneira intuitiva.
+
+## 🚀 Funcionalidades
+
+- Visualização de volume de vendas por categoria, produto e data  
+- Análise de receita e unidades vendidas  
+- Gráficos dinâmicos e segmentações  
+- Design limpo e focado na usabilidade
+
+## 🛠️ Tecnologias Utilizadas
+
+- Microsoft Excel  
+- Tabelas dinâmicas  
+- Gráficos interativos  
+- Segmentações de dados  
+
+
+## 🧪 Como Usar
+
+1. Baixe o arquivo `Dashboard de Vendas do Xbox.xlsx` 
+2. Abra o `Dashboard de Vendas do Xbox.xlsx` no Microsoft Excel
+3. Use os filtros disponíveis para interagir com os dados e analisar diferentes cenários de vendas
+4. Caso queira customizar, utilize a base original para gerar novas análises
+
+## 📌 Requisitos
+
+- Microsoft Excel 365 (recomendado)
+
+## ✒️ Autor
+
+- **Ana Flora Lauris** – [@aflauris](https://github.com/aflauris)
+
+
